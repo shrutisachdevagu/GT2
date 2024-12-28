@@ -19,6 +19,11 @@ class ViewController: UIViewController {
         if 1==2 {
             print("1 is equal to 2")
         }
+        else if true{
+            print("hi. you are true")
+        } else {
+            print("never mind.")
+        }
     }
 
     func anotherFunctionHere(){
