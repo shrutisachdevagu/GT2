@@ -16,6 +16,11 @@ class ViewController: UIViewController {
     
     func sayHello(){
         print("Hello")
+        if true{
+            print("hi. you are true")
+        } else {
+            print("never mind.")
+        }
     }
 
 
