@@ -18,6 +18,9 @@ class ViewController: UIViewController {
         print("Hello")
     }
 
+    func anotherFunctionHere(){
+        print("Heyy")
+    }
 
 }
 
