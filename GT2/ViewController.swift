@@ -16,6 +16,7 @@ class ViewController: UIViewController {
 
     func anotherFunctionHere(){
         print("Heyy")
+        print("Hi,,,,,")
     }
 
 }
