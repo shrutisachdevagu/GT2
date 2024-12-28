@@ -16,6 +16,9 @@ class ViewController: UIViewController {
     
     func sayHello(){
         print("Hello")
+        if 1==2 {
+            print("1 is equal to 2")
+        }
     }
 
     func anotherFunctionHere(){
